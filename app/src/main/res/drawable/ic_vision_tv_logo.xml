@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Dark Circular Badge Container -->
+    <path
+        android:fillColor="#0D1322"
+        android:pathData="M54,12 C77.196,12 96,30.804 96,54 C96,77.196 77.196,96 54,96 C30.804,96 12,77.196 12,54 C12,30.804 30.804,12 54,12 Z" />
+        
+    <!-- Outer Subtle Glass Ring -->
+    <path
+        android:strokeColor="#283880FF"
+        android:strokeWidth="1.5"
+        android:fillColor="#00000000"
+        android:pathData="M54,12 C77.196,12 96,30.804 96,54 C96,77.196 77.196,96 54,96 C30.804,96 12,77.196 12,54 C12,30.804 30.804,12 54,12 Z" />
+
+    <!-- Bold Royal Blue 'V' Shape -->
+    <path
+        android:fillColor="#3880FF"
+        android:pathData="M29,36 L43,36 L54,61 L65,36 L78,36 L58,76 L50,76 Z" />
+
+    <!-- Soft Blue Glow behind Star -->
+    <path
+        android:fillColor="#503880FF"
+        android:pathData="M68,24 C75.732,24 82,30.268 82,38 C82,45.732 75.732,52 68,52 C60.268,52 54,45.732 54,38 C54,30.268 60.268,24 68,24 Z" />
+
+    <!-- Sharp White 4-Point Sparkle Star Emblem -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,22 Q68,38 84,38 Q68,38 68,54 Q68,38 52,38 Q68,38 68,22 Z" />
+</vector>
+

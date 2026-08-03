@@ -1,0 +1,8 @@
+{
+  "name": "Remix Vision TV+",
+  "description": "Vision TV+ is an Apple TV+ inspired streaming platform featuring TMDB catalog, glassmorphic translucent design, season/episode selector, and custom playback interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
